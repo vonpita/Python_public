@@ -1,0 +1,11 @@
+Banking System using OOP
+
+Parent class: User
+- Holds details about the user
+- Has a function to show user details
+
+Child class: Bank
+- Stores details about the account balance
+- Stores details about the amount
+- Allows for deposites, withdraws and view_balance
+
